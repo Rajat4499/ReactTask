@@ -1,0 +1,12 @@
+creates a store
+
+store is an immutable object
+
+reducer is a function that takes current instance and returns updated instance of store
+action return what just happened
+
+{
+    categories : [],
+    product : []
+}
+

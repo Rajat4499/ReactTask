@@ -1,0 +1,70 @@
+div.User-info {
+  width: 25%;
+  border: 2px solid;
+  padding: 10px;
+  margin: 20px;
+  float : left;
+}
+button.btn{
+    top: 50%;
+    left: 50%;
+    background: pink;
+    font-size: 20px;
+    color: white;
+    padding: 10px 30px;
+  }
+div.user-name{
+  font-size:25px;
+  text-align: center;
+  font-weight: bold;
+}
+button.post-title-link{
+  text-align:left;
+  border: 1px solid;
+  background-color: white;
+  width:100%;
+  padding: 10px
+}
+button {
+  background-color: #AFEEEE;
+}
+button:hover{
+  background-color: #48D1CC;
+}
+button.user-details{
+  height: 60px ;
+  width: 60%;
+}
+
+div.user-details{
+  text-align:center;
+  padding-top: 20px;
+}
+div.add-post{
+  float : "right"
+}
+div.post-title-link{
+  margin : 0px;
+  padding: 5px;
+  width: 70%;
+}
+div.user-posts{
+  text-align: -webkit-center;
+}
+div.User-Description{
+  margin: 50px
+}
+div.post-title{
+  font-weight: bold;
+  font-size:20px;
+  padding:10px;
+}
+div.comment-display{
+  margin:10px;
+  border:1px solid;
+  padding:5px;
+}
+div.delete{
+  float:left;
+  margin-left:10px;
+}
